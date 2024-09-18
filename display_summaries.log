@@ -1,0 +1,384 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/config.json HTTP/11" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/model.safetensors HTTP/11" 404 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/generation_config.json HTTP/11" 404 0
+INFO:root:Loading file: /Users/jackmustonen/Intelligence Report Generator/important_articles.csv
+INFO:root:DataFrame loaded with 5 rows.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/us-sends-soldiers-alaska-amid-231847073.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/us-sends-soldiers-alaska-amid-231847073.html: ANCHORAGE, Alaska (AP) — The U.S. military has moved about 130 soldiers along with mobile rocket launchers to a desolate island in the Aleutian chain of western Alaska amid a recent increase in Russian military planes and vessels approaching American territory.
+Eight Russian military planes and four navy vessels, including two submarines, have come close to Alaska in the past week as Russia and China
+conducted joint military drills
+. None of the planes breached U.S. airspace and a Pentagon spoke...
+INFO:root:Summary generated:  Eight Russian military planes, four navy vessels, including two submarines, have come close to Alaska in the past week . None of the planes breached U.S. airspace and a Pentagon spokesperson said there was no cause for alarm . About 130 soldiers along with mobile rocket launchers have been moved to Shemya Island .
+INFO:root:Summary generated:  NORAD detected and tracked Russian military planes operating off Alaska over a four-day span . NORAD has said the number of such incursions has fluctuated yearly . Russia and China began the “Ocean-24” military exercises in the Pacific and Arctic oceans Sept. 10 .
+INFO:root:Summary generated:  U.S. Coast Guard says it was on routine patrol in the Chukchi Sea when it tracked four Russian Federation Navy vessels . The Russian vessels included two submarines, a frigate and a tugboat . NORAD spokeswoman declines to say whether jets were scrambled to intercept Russian planes .
+INFO:root:Summary generated:  U.S. Navy should reopen its shuttered base at Adak, located in the Aleutians . Sullivan calls for a larger military presence in the region .
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/us-ally-says-expects-america-170049913.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/us-ally-says-expects-america-170049913.html: The Philippines would expect US intervention should China take the BRP Sierra Madre warship.
+The Sierra Madre is a grounded WWII vessel marking Philippine territory in the Second Thomas Shoal.
+Tensions between China and the Philippines are increasingly high in the contested South China Sea.
+As pressure builds in the South China Sea amid frequent clashes, the Philippines is drawing a line: should China take a
+rusted warship outpost marking Manila's territory
+, the Philippines would expect US inte...
+INFO:root:Summary generated:  The Philippines would expect US intervention should China take the BRP Sierra Madre warship . Such a move could have significant repercussions, escalating the ongoing Chinese-Philippine dispute .
+INFO:root:Summary generated:  The Sierra Madre is a World War II-era LST-542-class tank landing ship that belonged to the US Navy and Vietnam before it was transferred to the Philippines . The Philippines maintains a small garrison of marines on the ship . China has repeatedly targeted resupply missions for the outpost .
+INFO:root:Summary generated:  China has increased its efforts to assert its authority in the region, bringing it into conflict with the Philippines . Manila says that Beijing's behavior violates its exclusive economic zone . China claims sovereignty over a majority of the South China Sea, even though its claims are not recognized by international law .
+INFO:root:Summary generated:  Other US allies and partners have accused Beijing of violating their airspace. in the Indo-Pacific region. The Chinese government is accused of recklessly harassing their aircraft operating in international airspace. The US has accused China of violating its airspace.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/man-accused-trying-kill-trump-134644431.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/man-accused-trying-kill-trump-134644431.html: KAAAWA, Hawaii (AP) —
+Ryan Wesley Routh portrayed himself
+online as a man who built housing for homeless people in Hawaii, tried to recruit fighters for
+Ukraine to defend itself against Russia
+, and described his support and then disdain for Donald Trump — even urging Iran to kill him.
+“You are free to assassinate Trump,” Routh wrote of Iran in an apparently self-published book in 2023, “Ukraine’s Unwinnable War,” which described the former president as a “fool” and “buffoon” for both the Jan. 6...
+INFO:root:Summary generated:  Ryan Wesley Routh portrayed himself online as a man who built housing for homeless people in Hawaii . He also tried to recruit fighters for Ukraine to defend itself against Russia, he wrote . Routh, 58, was arrested Sunday after authorities say he stalked the GOP presidential nominee with an SKS-style rifle .
+INFO:root:Summary generated:  Routh has expressed support for Bernie Sanders, Tulsi Gabbard, Nikki Haley and President Joe Biden . In recent years, his posts appear to have soured on Trump .
+INFO:root:Summary generated:  Routh urged Biden and Harris to visit those wounded in the shooting and attend the funeral of the firefighter who was killed . He posted frequently on social media about Ukraine and other conflicts, and had a website seeking to raise money and recruit volunteers to fight for Ukraine .
+INFO:root:Summary generated:  Video shows Routh at a demonstration in Kyiv’s Independence Square in April 2022 . Routh never served in the Ukrainian army or worked with its military, an official says .
+INFO:root:Summary generated:  Routh lived most of his life in Greensboro, North Carolina, where his run-ins with law enforcement included a 2002 felony conviction for possessing explosives . He invites a dozen protesters in Hong Kong to stay at his Hawaii home to escape a Chinese crackdown .
+INFO:root:Summary generated:  Court records show authorities seized explosives and an undefined number of firearms from Routh . Routh agreed to undergo a mental health evaluation as part of a plea deal . He was convicted of a felony count of possession of stolen goods in 2010, as well as misdemeanors .
+INFO:root:Summary generated:  In most states, it is generally forbidden for a person convicted of a felony to purchase or possess a firearm . In 2018, Routh moved to the small town of Kaaawa, Hawaii, about 45 minutes outside Honolulu, to go in business .
+INFO:root:Summary generated:  "It’s just been very surprising,” Tam said . Tam: "If he did have anything to do with it, it's very shocking to us"
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/putin-orders-russian-army-grow-123527314.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/putin-orders-russian-army-grow-123527314.html: By Andrew Osborn
+(Reuters) -President Vladimir Putin on Monday ordered the regular size of the Russian army to be increased by 180,000 troops to 1.5 million active servicemen in a move that would make it the second largest in the world after China's.
+In a decree published on the Kremlin's website, Putin ordered the overall size of the armed forces to be increased to 2.38 million people, of which he said 1.5 million should be active servicemen.
+According to data from the International Institute f...
+INFO:root:Summary generated:  Vladimir Putin orders the size of the Russian army to be increased by 180,000 troops to 1.5 million active servicemen . The move would see Russia leapfrog the United States and India in terms of the number of active combat soldiers .
+INFO:root:Summary generated:  Russia has been recruiting volunteers on lucrative contracts to fight in Ukraine . It has been sustaining heavy battlefield losses, and there is no sign of the war ending anytime soon . Both sides say the exact size of their losses is a military secret .
+INFO:root:Summary generated:  Putin has ordered a third increase in the number of combat troops since 2012 . The Kremlin has said that no new mobilisation is planned for now, however .
+INFO:root:Summary generated:  Moscow could take unpopular and difficult decision of expanding draft size or change law to allow more women to work in the military to reach such a goal . Massicot: "Look for signs that this is a real initiative to recruit and expand, and not a kind of show to intimidate others"
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/11-old-arrested-mass-school-223703305.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/11-old-arrested-mass-school-223703305.html: Shocking video shows an 11-year-old under arrest. The local sheriff says he is starting a new policy of posting video showing minor's faces on social media. Sheriff Mike Chitwood of Volusia County, Florida says the youngster threatened to commit a "mass shooting" at a school outside Daytona Beach. The sheriff says he was driven to this extraordinary step of allowing a minor's face to be shown after a wave of threats made to schools in his county.
+View comments...
+INFO:root:Summaries added to DataFrame.
+INFO:root:Script completed.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/config.json HTTP/11" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/model.safetensors HTTP/11" 404 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/generation_config.json HTTP/11" 404 0
+INFO:root:Loading file: /Users/jackmustonen/Intelligence Report Generator/important_articles.csv
+INFO:root:DataFrame loaded with 4 rows.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/us-sends-soldiers-alaska-amid-231847073.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/us-sends-soldiers-alaska-amid-231847073.html: ANCHORAGE, Alaska (AP) — The U.S. military has moved about 130 soldiers along with mobile rocket launchers to a desolate island in the Aleutian chain of western Alaska amid a recent increase in Russian military planes and vessels approaching American territory.
+Eight Russian military planes and four navy vessels, including two submarines, have come close to Alaska in the past week as Russia and China
+conducted joint military drills
+. None of the planes breached U.S. airspace and a Pentagon spoke...
+INFO:root:Summary generated:  Eight Russian military planes, four navy vessels, including two submarines, have come close to Alaska in the past week . None of the planes breached U.S. airspace and a Pentagon spokesperson said there was no cause for alarm . About 130 soldiers along with mobile rocket launchers have been moved to Shemya Island .
+INFO:root:Summary generated:  NORAD detected and tracked Russian military planes operating off Alaska over a four-day span . NORAD has said the number of such incursions has fluctuated yearly . Russia and China began the “Ocean-24” military exercises in the Pacific and Arctic oceans Sept. 10 .
+INFO:root:Summary generated:  U.S. Coast Guard says it was on routine patrol in the Chukchi Sea when it tracked four Russian Federation Navy vessels . The Russian vessels included two submarines, a frigate and a tugboat . NORAD spokeswoman declines to say whether jets were scrambled to intercept Russian planes .
+INFO:root:Summary generated:  U.S. Navy should reopen its shuttered base at Adak, located in the Aleutians . Sullivan calls for a larger military presence in the region .
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/us-ally-says-expects-america-170049913.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/us-ally-says-expects-america-170049913.html: The Philippines would expect US intervention should China take the BRP Sierra Madre warship.
+The Sierra Madre is a grounded WWII vessel marking Philippine territory in the Second Thomas Shoal.
+Tensions between China and the Philippines are increasingly high in the contested South China Sea.
+As pressure builds in the South China Sea amid frequent clashes, the Philippines is drawing a line: should China take a
+rusted warship outpost marking Manila's territory
+, the Philippines would expect US inte...
+INFO:root:Summary generated:  The Philippines would expect US intervention should China take the BRP Sierra Madre warship . Such a move could have significant repercussions, escalating the ongoing Chinese-Philippine dispute .
+INFO:root:Summary generated:  The Sierra Madre is a World War II-era LST-542-class tank landing ship that belonged to the US Navy and Vietnam before it was transferred to the Philippines . The Philippines maintains a small garrison of marines on the ship . China has repeatedly targeted resupply missions for the outpost .
+INFO:root:Summary generated:  China has increased its efforts to assert its authority in the region, bringing it into conflict with the Philippines . Manila says that Beijing's behavior violates its exclusive economic zone . China claims sovereignty over a majority of the South China Sea, even though its claims are not recognized by international law .
+INFO:root:Summary generated:  Other US allies and partners have accused Beijing of violating their airspace. in the Indo-Pacific region. The Chinese government is accused of recklessly harassing their aircraft operating in international airspace. The US has accused China of violating its airspace.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/man-accused-trying-kill-trump-134644431.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/man-accused-trying-kill-trump-134644431.html: KAAAWA, Hawaii (AP) —
+Ryan Wesley Routh portrayed himself
+online as a man who built housing for homeless people in Hawaii, tried to recruit fighters for
+Ukraine to defend itself against Russia
+, and described his support and then disdain for Donald Trump — even urging Iran to kill him.
+“You are free to assassinate Trump,” Routh wrote of Iran in an apparently self-published book in 2023, “Ukraine’s Unwinnable War,” which described the former president as a “fool” and “buffoon” for both the Jan. 6...
+INFO:root:Summary generated:  Ryan Wesley Routh portrayed himself online as a man who built housing for homeless people in Hawaii . He also tried to recruit fighters for Ukraine to defend itself against Russia, he wrote . Routh, 58, was arrested Sunday after authorities say he stalked the GOP presidential nominee with an SKS-style rifle .
+INFO:root:Summary generated:  Routh has expressed support for Bernie Sanders, Tulsi Gabbard, Nikki Haley and President Joe Biden . In recent years, his posts appear to have soured on Trump .
+INFO:root:Summary generated:  Routh urged Biden and Harris to visit those wounded in the shooting and attend the funeral of the firefighter who was killed . He posted frequently on social media about Ukraine and other conflicts, and had a website seeking to raise money and recruit volunteers to fight for Ukraine .
+INFO:root:Summary generated:  Video shows Routh at a demonstration in Kyiv’s Independence Square in April 2022 . Routh never served in the Ukrainian army or worked with its military, an official says .
+INFO:root:Summary generated:  Routh lived most of his life in Greensboro, North Carolina, where his run-ins with law enforcement included a 2002 felony conviction for possessing explosives . He invites a dozen protesters in Hong Kong to stay at his Hawaii home to escape a Chinese crackdown .
+INFO:root:Summary generated:  Court records show authorities seized explosives and an undefined number of firearms from Routh . Routh agreed to undergo a mental health evaluation as part of a plea deal . He was convicted of a felony count of possession of stolen goods in 2010, as well as misdemeanors .
+INFO:root:Summary generated:  In most states, it is generally forbidden for a person convicted of a felony to purchase or possess a firearm . In 2018, Routh moved to the small town of Kaaawa, Hawaii, about 45 minutes outside Honolulu, to go in business .
+INFO:root:Summary generated:  "It’s just been very surprising,” Tam said . Tam: "If he did have anything to do with it, it's very shocking to us"
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/putin-orders-russian-army-grow-123527314.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/putin-orders-russian-army-grow-123527314.html: By Andrew Osborn
+(Reuters) -President Vladimir Putin on Monday ordered the regular size of the Russian army to be increased by 180,000 troops to 1.5 million active servicemen in a move that would make it the second largest in the world after China's.
+In a decree published on the Kremlin's website, Putin ordered the overall size of the armed forces to be increased to 2.38 million people, of which he said 1.5 million should be active servicemen.
+According to data from the International Institute f...
+INFO:root:Summary generated:  Vladimir Putin orders the size of the Russian army to be increased by 180,000 troops to 1.5 million active servicemen . The move would see Russia leapfrog the United States and India in terms of the number of active combat soldiers .
+INFO:root:Summary generated:  Russia has been recruiting volunteers on lucrative contracts to fight in Ukraine . It has been sustaining heavy battlefield losses, and there is no sign of the war ending anytime soon . Both sides say the exact size of their losses is a military secret .
+INFO:root:Summary generated:  Putin has ordered a third increase in the number of combat troops since 2012 . The Kremlin has said that no new mobilisation is planned for now, however .
+INFO:root:Summary generated:  Moscow could take unpopular and difficult decision of expanding draft size or change law to allow more women to work in the military to reach such a goal . Massicot: "Look for signs that this is a real initiative to recruit and expand, and not a kind of show to intimidate others"
+INFO:root:Summaries added to DataFrame.
+INFO:root:Script completed.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/config.json HTTP/11" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/model.safetensors HTTP/11" 404 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/generation_config.json HTTP/11" 404 0
+INFO:root:Loading file: /Users/jackmustonen/Intelligence Report Generator/important_articles.csv
+INFO:root:DataFrame loaded with 4 rows.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/us-sends-soldiers-alaska-amid-231847073.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/us-sends-soldiers-alaska-amid-231847073.html: ANCHORAGE, Alaska (AP) — The U.S. military has moved about 130 soldiers along with mobile rocket launchers to a desolate island in the Aleutian chain of western Alaska amid a recent increase in Russian military planes and vessels approaching American territory.
+Eight Russian military planes and four navy vessels, including two submarines, have come close to Alaska in the past week as Russia and China
+conducted joint military drills
+. None of the planes breached U.S. airspace and a Pentagon spoke...
+INFO:root:Summary generated:  Eight Russian military planes, four navy vessels, including two submarines, have come close to Alaska in the past week . None of the planes breached U.S. airspace and a Pentagon spokesperson said there was no cause for alarm . About 130 soldiers along with mobile rocket launchers have been moved to Shemya Island .
+INFO:root:Summary generated:  NORAD detected and tracked Russian military planes operating off Alaska over a four-day span . NORAD has said the number of such incursions has fluctuated yearly . Russia and China began the “Ocean-24” military exercises in the Pacific and Arctic oceans Sept. 10 .
+INFO:root:Summary generated:  U.S. Coast Guard says it was on routine patrol in the Chukchi Sea when it tracked four Russian Federation Navy vessels . The Russian vessels included two submarines, a frigate and a tugboat . NORAD spokeswoman declines to say whether jets were scrambled to intercept Russian planes .
+INFO:root:Summary generated:  U.S. Navy should reopen its shuttered base at Adak, located in the Aleutians . Sullivan calls for a larger military presence in the region .
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/us-ally-says-expects-america-170049913.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/us-ally-says-expects-america-170049913.html: The Philippines would expect US intervention should China take the BRP Sierra Madre warship.
+The Sierra Madre is a grounded WWII vessel marking Philippine territory in the Second Thomas Shoal.
+Tensions between China and the Philippines are increasingly high in the contested South China Sea.
+As pressure builds in the South China Sea amid frequent clashes, the Philippines is drawing a line: should China take a
+rusted warship outpost marking Manila's territory
+, the Philippines would expect US inte...
+INFO:root:Summary generated:  The Philippines would expect US intervention should China take the BRP Sierra Madre warship . Such a move could have significant repercussions, escalating the ongoing Chinese-Philippine dispute .
+INFO:root:Summary generated:  The Sierra Madre is a World War II-era LST-542-class tank landing ship that belonged to the US Navy and Vietnam before it was transferred to the Philippines . The Philippines maintains a small garrison of marines on the ship . China has repeatedly targeted resupply missions for the outpost .
+INFO:root:Summary generated:  China has increased its efforts to assert its authority in the region, bringing it into conflict with the Philippines . Manila says that Beijing's behavior violates its exclusive economic zone . China claims sovereignty over a majority of the South China Sea, even though its claims are not recognized by international law .
+INFO:root:Summary generated:  Other US allies and partners have accused Beijing of violating their airspace. in the Indo-Pacific region. The Chinese government is accused of recklessly harassing their aircraft operating in international airspace. The US has accused China of violating its airspace.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/man-accused-trying-kill-trump-134644431.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/man-accused-trying-kill-trump-134644431.html: KAAAWA, Hawaii (AP) —
+Ryan Wesley Routh portrayed himself
+online as a man who built housing for homeless people in Hawaii, tried to recruit fighters for
+Ukraine to defend itself against Russia
+, and described his support and then disdain for Donald Trump — even urging Iran to kill him.
+“You are free to assassinate Trump,” Routh wrote of Iran in an apparently self-published book in 2023, “Ukraine’s Unwinnable War,” which described the former president as a “fool” and “buffoon” for both the Jan. 6...
+INFO:root:Summary generated:  Ryan Wesley Routh portrayed himself online as a man who built housing for homeless people in Hawaii . He also tried to recruit fighters for Ukraine to defend itself against Russia, he wrote . Routh, 58, was arrested Sunday after authorities say he stalked the GOP presidential nominee with an SKS-style rifle .
+INFO:root:Summary generated:  Routh has expressed support for Bernie Sanders, Tulsi Gabbard, Nikki Haley and President Joe Biden . In recent years, his posts appear to have soured on Trump .
+INFO:root:Summary generated:  Routh urged Biden and Harris to visit those wounded in the shooting and attend the funeral of the firefighter who was killed . He posted frequently on social media about Ukraine and other conflicts, and had a website seeking to raise money and recruit volunteers to fight for Ukraine .
+INFO:root:Summary generated:  Video shows Routh at a demonstration in Kyiv’s Independence Square in April 2022 . Routh never served in the Ukrainian army or worked with its military, an official says .
+INFO:root:Summary generated:  Routh lived most of his life in Greensboro, North Carolina, where his run-ins with law enforcement included a 2002 felony conviction for possessing explosives . He invites a dozen protesters in Hong Kong to stay at his Hawaii home to escape a Chinese crackdown .
+INFO:root:Summary generated:  Court records show authorities seized explosives and an undefined number of firearms from Routh . Routh agreed to undergo a mental health evaluation as part of a plea deal . He was convicted of a felony count of possession of stolen goods in 2010, as well as misdemeanors .
+INFO:root:Summary generated:  In most states, it is generally forbidden for a person convicted of a felony to purchase or possess a firearm . In 2018, Routh moved to the small town of Kaaawa, Hawaii, about 45 minutes outside Honolulu, to go in business .
+INFO:root:Summary generated:  "It’s just been very surprising,” Tam said . Tam: "If he did have anything to do with it, it's very shocking to us"
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/putin-orders-russian-army-grow-123527314.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/putin-orders-russian-army-grow-123527314.html: By Andrew Osborn
+(Reuters) -President Vladimir Putin on Monday ordered the regular size of the Russian army to be increased by 180,000 troops to 1.5 million active servicemen in a move that would make it the second largest in the world after China's.
+In a decree published on the Kremlin's website, Putin ordered the overall size of the armed forces to be increased to 2.38 million people, of which he said 1.5 million should be active servicemen.
+According to data from the International Institute f...
+INFO:root:Summary generated:  Vladimir Putin orders the size of the Russian army to be increased by 180,000 troops to 1.5 million active servicemen . The move would see Russia leapfrog the United States and India in terms of the number of active combat soldiers .
+INFO:root:Summary generated:  Russia has been recruiting volunteers on lucrative contracts to fight in Ukraine . It has been sustaining heavy battlefield losses, and there is no sign of the war ending anytime soon . Both sides say the exact size of their losses is a military secret .
+INFO:root:Summary generated:  Putin has ordered a third increase in the number of combat troops since 2012 . The Kremlin has said that no new mobilisation is planned for now, however .
+INFO:root:Summary generated:  Moscow could take unpopular and difficult decision of expanding draft size or change law to allow more women to work in the military to reach such a goal . Massicot: "Look for signs that this is a real initiative to recruit and expand, and not a kind of show to intimidate others"
+INFO:root:Summaries added to DataFrame.
+INFO:root:Script completed.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/config.json HTTP/11" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/model.safetensors HTTP/11" 404 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/generation_config.json HTTP/11" 404 0
+INFO:root:Loading file: /Users/jackmustonen/Intelligence Report Generator/important_articles.csv
+INFO:root:DataFrame loaded with 4 rows.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/us-sends-soldiers-alaska-amid-231847073.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/us-sends-soldiers-alaska-amid-231847073.html: ANCHORAGE, Alaska (AP) — The U.S. military has moved about 130 soldiers along with mobile rocket launchers to a desolate island in the Aleutian chain of western Alaska amid a recent increase in Russian military planes and vessels approaching American territory.
+Eight Russian military planes and four navy vessels, including two submarines, have come close to Alaska in the past week as Russia and China
+conducted joint military drills
+. None of the planes breached U.S. airspace and a Pentagon spoke...
+INFO:root:Summary generated:  Eight Russian military planes, four navy vessels, including two submarines, have come close to Alaska in the past week . None of the planes breached U.S. airspace and a Pentagon spokesperson said there was no cause for alarm . About 130 soldiers along with mobile rocket launchers have been moved to Shemya Island .
+INFO:root:Summary generated:  NORAD detected and tracked Russian military planes operating off Alaska over a four-day span . NORAD has said the number of such incursions has fluctuated yearly . Russia and China began the “Ocean-24” military exercises in the Pacific and Arctic oceans Sept. 10 .
+INFO:root:Summary generated:  U.S. Coast Guard says it was on routine patrol in the Chukchi Sea when it tracked four Russian Federation Navy vessels . The Russian vessels included two submarines, a frigate and a tugboat . NORAD spokeswoman declines to say whether jets were scrambled to intercept Russian planes .
+INFO:root:Summary generated:  U.S. Navy should reopen its shuttered base at Adak, located in the Aleutians . Sullivan calls for a larger military presence in the region .
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/us-ally-says-expects-america-170049913.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/us-ally-says-expects-america-170049913.html: The Philippines would expect US intervention should China take the BRP Sierra Madre warship.
+The Sierra Madre is a grounded WWII vessel marking Philippine territory in the Second Thomas Shoal.
+Tensions between China and the Philippines are increasingly high in the contested South China Sea.
+As pressure builds in the South China Sea amid frequent clashes, the Philippines is drawing a line: should China take a
+rusted warship outpost marking Manila's territory
+, the Philippines would expect US inte...
+INFO:root:Summary generated:  The Philippines would expect US intervention should China take the BRP Sierra Madre warship . Such a move could have significant repercussions, escalating the ongoing Chinese-Philippine dispute .
+INFO:root:Summary generated:  The Sierra Madre is a World War II-era LST-542-class tank landing ship that belonged to the US Navy and Vietnam before it was transferred to the Philippines . The Philippines maintains a small garrison of marines on the ship . China has repeatedly targeted resupply missions for the outpost .
+INFO:root:Summary generated:  China has increased its efforts to assert its authority in the region, bringing it into conflict with the Philippines . Manila says that Beijing's behavior violates its exclusive economic zone . China claims sovereignty over a majority of the South China Sea, even though its claims are not recognized by international law .
+INFO:root:Summary generated:  Other US allies and partners have accused Beijing of violating their airspace. in the Indo-Pacific region. The Chinese government is accused of recklessly harassing their aircraft operating in international airspace. The US has accused China of violating its airspace.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/man-accused-trying-kill-trump-134644431.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/man-accused-trying-kill-trump-134644431.html: KAAAWA, Hawaii (AP) —
+Ryan Wesley Routh portrayed himself
+online as a man who built housing for homeless people in Hawaii, tried to recruit fighters for
+Ukraine to defend itself against Russia
+, and described his support and then disdain for Donald Trump — even urging Iran to kill him.
+“You are free to assassinate Trump,” Routh wrote of Iran in an apparently self-published book in 2023, “Ukraine’s Unwinnable War,” which described the former president as a “fool” and “buffoon” for both the Jan. 6...
+INFO:root:Summary generated:  Ryan Wesley Routh portrayed himself online as a man who built housing for homeless people in Hawaii . He also tried to recruit fighters for Ukraine to defend itself against Russia, he wrote . Routh, 58, was arrested Sunday after authorities say he stalked the GOP presidential nominee with an SKS-style rifle .
+INFO:root:Summary generated:  Routh has expressed support for Bernie Sanders, Tulsi Gabbard, Nikki Haley and President Joe Biden . In recent years, his posts appear to have soured on Trump .
+INFO:root:Summary generated:  Routh urged Biden and Harris to visit those wounded in the shooting and attend the funeral of the firefighter who was killed . He posted frequently on social media about Ukraine and other conflicts, and had a website seeking to raise money and recruit volunteers to fight for Ukraine .
+INFO:root:Summary generated:  Video shows Routh at a demonstration in Kyiv’s Independence Square in April 2022 . Routh never served in the Ukrainian army or worked with its military, an official says .
+INFO:root:Summary generated:  Routh lived most of his life in Greensboro, North Carolina, where his run-ins with law enforcement included a 2002 felony conviction for possessing explosives . He invites a dozen protesters in Hong Kong to stay at his Hawaii home to escape a Chinese crackdown .
+INFO:root:Summary generated:  Court records show authorities seized explosives and an undefined number of firearms from Routh . Routh agreed to undergo a mental health evaluation as part of a plea deal . He was convicted of a felony count of possession of stolen goods in 2010, as well as misdemeanors .
+INFO:root:Summary generated:  In most states, it is generally forbidden for a person convicted of a felony to purchase or possess a firearm . In 2018, Routh moved to the small town of Kaaawa, Hawaii, about 45 minutes outside Honolulu, to go in business .
+INFO:root:Summary generated:  "It’s just been very surprising,” Tam said . Tam: "If he did have anything to do with it, it's very shocking to us"
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/putin-orders-russian-army-grow-123527314.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/putin-orders-russian-army-grow-123527314.html: By Andrew Osborn
+(Reuters) -President Vladimir Putin on Monday ordered the regular size of the Russian army to be increased by 180,000 troops to 1.5 million active servicemen in a move that would make it the second largest in the world after China's.
+In a decree published on the Kremlin's website, Putin ordered the overall size of the armed forces to be increased to 2.38 million people, of which he said 1.5 million should be active servicemen.
+According to data from the International Institute f...
+INFO:root:Summary generated:  Vladimir Putin orders the size of the Russian army to be increased by 180,000 troops to 1.5 million active servicemen . The move would see Russia leapfrog the United States and India in terms of the number of active combat soldiers .
+INFO:root:Summary generated:  Russia has been recruiting volunteers on lucrative contracts to fight in Ukraine . It has been sustaining heavy battlefield losses, and there is no sign of the war ending anytime soon . Both sides say the exact size of their losses is a military secret .
+INFO:root:Summary generated:  Putin has ordered a third increase in the number of combat troops since 2012 . The Kremlin has said that no new mobilisation is planned for now, however .
+INFO:root:Summary generated:  Moscow could take unpopular and difficult decision of expanding draft size or change law to allow more women to work in the military to reach such a goal . Massicot: "Look for signs that this is a real initiative to recruit and expand, and not a kind of show to intimidate others"
+INFO:root:Summaries added to DataFrame.
+INFO:root:Script completed.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/config.json HTTP/11" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/model.safetensors HTTP/11" 404 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/generation_config.json HTTP/11" 404 0
+INFO:root:Loading file: /Users/jackmustonen/Intelligence Report Generator/important_articles.csv
+INFO:root:DataFrame loaded with 2 rows.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/ukrainian-drones-strike-large-military-094948888.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/ukrainian-drones-strike-large-military-094948888.html: KYIV, Ukraine (AP) — Ukrainian
+drones struck a large military depot in a town deep inside Russia
+overnight, causing a huge fire and forcing some residents to evacuate, a Ukrainian official and Russian news reports said Wednesday. At least 13 people were injured, Russia's Health Ministry added.
+Meanwhile, a senior U.S. diplomat said
+Ukrainian President Volodymyr Zelenskyy
+has a workable plan to end the war, now in its third year, although its details have not been publicly disclosed.
+Ukraine clai...
+INFO:root:Summary generated:  At least 13 people were injured, Russia's Health Ministry added . Ukraine claimed the strike destroyed military warehouses in Toropets, a town in Russia's Tver region . The attack was carried out by Ukraine’s Security Service, a Kyiv security official said .
+INFO:root:Summary generated:  The facility caught fire in the strike and was burning across an area 6 kilometers (4 miles) wide, a Ukrainian intelligence official says . Among the destroyed ammunition were North Korean KN-23 short-range ballistic missiles, the official said . Russia and North Korea signed a pact in June that envisioned mutual military assistance between Moscow and Pyongyang .
+INFO:root:Summary generated:  Ukraine is seeking approval from Western nations for weapons they are providing to hit targets inside Russia . Some Western leaders have balked at that, fearing they could be dragged into the conflict .
+INFO:root:Summary generated:  The U.K. Defense Ministry estimates the war has probably killed or wounded more than 600,000 Russian troops . Putin ordered the country’s military to increase its number of troops by 180,000 to a total of 1.5 million by Dec. 1 .
+INFO:root:Summary generated:  /hub/russia-ukraine. /hub: Russia, Ukraine, Russia and Ukraine . /hub.com: Ukraine, Ukraine and Russia.com .
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/finlands-president-wants-end-single-070506305.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/finlands-president-wants-end-single-070506305.html: By Anne Kauranen
+HELSINKI (Reuters) - Finland's President Alexander Stubb has called for expansion of the U.N. Security Council, abolition of its single state veto power, and suspension of any member engaging in an "illegal war" such as Russia's invasion of Ukraine.
+Stubb, who leads the Nordic nation's foreign policy, said he would add his voice to reform calls at next week's U.N. General Assembly in New York which is to discuss composition of the global body's Security Council.
+Consisting of fi...
+INFO:root:Summary generated:  Finland's president calls for the U.N. Security Council to be expanded from five to 10 permanent members . The number of veto-wielding nations has been deadlocked on issues ranging from Ukraine to Gaza . Stubb: "No single state should have veto power"
+INFO:root:Summary generated:  U.N. has also backed two permanent seats for Africa . Stubb said any member engaging an illegal war, "such as Russia is in right now in Ukraine", should be kicked off .
+INFO:root:Summary generated:  Former Finnish prime minister urges support for Ukraine's president to address U.N. assembly next week . Stubb does not give Russian President Vladimir Putin's threats of nuclear escalation .
+INFO:root:Summaries added to DataFrame.
+INFO:root:Script completed.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/config.json HTTP/11" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/model.safetensors HTTP/11" 404 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/generation_config.json HTTP/11" 404 0
+INFO:root:Loading file: /Users/jackmustonen/Intelligence Report Generator/important_articles.csv
+INFO:root:DataFrame loaded with 1 rows.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/finlands-president-wants-end-single-070506305.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/finlands-president-wants-end-single-070506305.html: By Anne Kauranen
+HELSINKI (Reuters) - Finland's President Alexander Stubb has called for expansion of the U.N. Security Council, abolition of its single state veto power, and suspension of any member engaging in an "illegal war" such as Russia's invasion of Ukraine.
+Stubb, who leads the Nordic nation's foreign policy, said he would add his voice to reform calls at next week's U.N. General Assembly in New York which is to discuss composition of the global body's Security Council.
+Consisting of fi...
+INFO:root:Summary generated:  Finland's president calls for the U.N. Security Council to be expanded from five to 10 permanent members . The number of veto-wielding nations has been deadlocked on issues ranging from Ukraine to Gaza . Stubb: "No single state should have veto power"
+INFO:root:Summary generated:  U.N. has also backed two permanent seats for Africa . Stubb said any member engaging an illegal war, "such as Russia is in right now in Ukraine", should be kicked off .
+INFO:root:Summary generated:  Former Finnish prime minister urges support for Ukraine's president to address U.N. assembly next week . Stubb does not give Russian President Vladimir Putin's threats of nuclear escalation .
+INFO:root:Summaries added to DataFrame.
+INFO:root:Script completed.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/config.json HTTP/11" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/model.safetensors HTTP/11" 404 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/generation_config.json HTTP/11" 404 0
+INFO:root:Loading file: /Users/jackmustonen/Intelligence Report Generator/important_articles.csv
+INFO:root:DataFrame loaded with 1 rows.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/finlands-president-wants-end-single-070506305.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/finlands-president-wants-end-single-070506305.html: By Anne Kauranen
+HELSINKI (Reuters) - Finland's President Alexander Stubb has called for expansion of the U.N. Security Council, abolition of its single state veto power, and suspension of any member engaging in an "illegal war" such as Russia's invasion of Ukraine.
+Stubb, who leads the Nordic nation's foreign policy, said he would add his voice to reform calls at next week's U.N. General Assembly in New York which is to discuss composition of the global body's Security Council.
+Consisting of fi...
+INFO:root:Summary generated:  Finland's president calls for the U.N. Security Council to be expanded from five to 10 permanent members . The number of veto-wielding nations has been deadlocked on issues ranging from Ukraine to Gaza . Stubb: "No single state should have veto power"
+INFO:root:Summary generated:  U.N. has also backed two permanent seats for Africa . Stubb said any member engaging an illegal war, "such as Russia is in right now in Ukraine", should be kicked off .
+INFO:root:Summary generated:  Former Finnish prime minister urges support for Ukraine's president to address U.N. assembly next week . Stubb does not give Russian President Vladimir Putin's threats of nuclear escalation .
+INFO:root:Summaries added to DataFrame.
+INFO:root:Script completed.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/config.json HTTP/11" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/model.safetensors HTTP/11" 404 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/generation_config.json HTTP/11" 404 0
+INFO:root:Loading file: /Users/jackmustonen/Intelligence Report Generator/important_articles.csv
+INFO:root:DataFrame loaded with 1 rows.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/ukrainian-drones-strike-large-military-094948888.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/ukrainian-drones-strike-large-military-094948888.html: KYIV, Ukraine (AP) — Ukrainian
+drones struck a large military depot in a town deep inside Russia
+overnight, causing a huge fire and forcing some residents to evacuate, a Ukrainian official and Russian news reports said Wednesday. At least 13 people were injured, Russia's Health Ministry added.
+Meanwhile, a senior U.S. diplomat said
+Ukrainian President Volodymyr Zelenskyy
+has a workable plan to end the war, now in its third year, although its details have not been publicly disclosed.
+Ukraine clai...
+INFO:root:Summary generated:  At least 13 people were injured, Russia's Health Ministry added . Ukraine claimed the strike destroyed military warehouses in Toropets, a town in Russia's Tver region . The attack was carried out by Ukraine’s Security Service, a Kyiv security official said .
+INFO:root:Summary generated:  The facility caught fire in the strike and was burning across an area 6 kilometers (4 miles) wide, a Ukrainian intelligence official says . Among the destroyed ammunition were North Korean KN-23 short-range ballistic missiles, the official said . Russia and North Korea signed a pact in June that envisioned mutual military assistance between Moscow and Pyongyang .
+INFO:root:Summary generated:  Ukraine is seeking approval from Western nations for weapons they are providing to hit targets inside Russia . Some Western leaders have balked at that, fearing they could be dragged into the conflict .
+INFO:root:Summary generated:  The U.K. Defense Ministry estimates the war has probably killed or wounded more than 600,000 Russian troops . Putin ordered the country’s military to increase its number of troops by 180,000 to a total of 1.5 million by Dec. 1 .
+INFO:root:Summary generated:  /hub/russia-ukraine. /hub: Russia, Ukraine, Russia and Ukraine . /hub.com: Ukraine, Ukraine and Russia.com .
+INFO:root:Summaries added to DataFrame.
+INFO:root:Script completed.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/config.json HTTP/11" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/model.safetensors HTTP/11" 404 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/generation_config.json HTTP/11" 404 0
+INFO:root:Loading file: /Users/jackmustonen/Intelligence Report Generator/important_articles.csv
+INFO:root:DataFrame loaded with 1 rows.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/ukrainian-drones-strike-large-military-094948888.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/ukrainian-drones-strike-large-military-094948888.html: KYIV, Ukraine (AP) — Ukrainian
+drones struck a large military depot in a town deep inside Russia
+overnight, causing a huge fire and forcing some residents to evacuate, a Ukrainian official and Russian news reports said Wednesday. At least 13 people were injured, Russia's Health Ministry added.
+Meanwhile, a senior U.S. diplomat said
+Ukrainian President Volodymyr Zelenskyy
+has a workable plan to end the war, now in its third year, although its details have not been publicly disclosed.
+Ukraine clai...
+INFO:root:Summary generated:  At least 13 people were injured, Russia's Health Ministry added . Ukraine claimed the strike destroyed military warehouses in Toropets, a town in Russia's Tver region . The attack was carried out by Ukraine’s Security Service, a Kyiv security official said .
+INFO:root:Summary generated:  The facility caught fire in the strike and was burning across an area 6 kilometers (4 miles) wide, a Ukrainian intelligence official says . Among the destroyed ammunition were North Korean KN-23 short-range ballistic missiles, the official said . Russia and North Korea signed a pact in June that envisioned mutual military assistance between Moscow and Pyongyang .
+INFO:root:Summary generated:  Ukraine is seeking approval from Western nations for weapons they are providing to hit targets inside Russia . Some Western leaders have balked at that, fearing they could be dragged into the conflict .
+INFO:root:Summary generated:  The U.K. Defense Ministry estimates the war has probably killed or wounded more than 600,000 Russian troops . Putin ordered the country’s military to increase its number of troops by 180,000 to a total of 1.5 million by Dec. 1 .
+INFO:root:Summary generated:  /hub/russia-ukraine. /hub: Russia, Ukraine, Russia and Ukraine . /hub.com: Ukraine, Ukraine and Russia.com .
+INFO:root:Summaries added to DataFrame.
+INFO:root:Script completed.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/config.json HTTP/11" 200 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/model.safetensors HTTP/11" 404 0
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "HEAD /sshleifer/distilbart-cnn-12-6/resolve/main/generation_config.json HTTP/11" 404 0
+INFO:root:Loading file: /Users/jackmustonen/Intelligence Report Generator/important_articles.csv
+INFO:root:DataFrame loaded with 4 rows.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/ukrainian-drones-strike-large-military-094948888.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/ukrainian-drones-strike-large-military-094948888.html: KYIV, Ukraine (AP) — Ukrainian
+drones struck a large military depot in a town deep inside Russia
+overnight, causing a huge fire and forcing some residents to evacuate, a Ukrainian official and Russian news reports said Wednesday. At least 13 people were injured, Russia's Health Ministry added.
+Meanwhile, a senior U.S. diplomat said
+Ukrainian President Volodymyr Zelenskyy
+has a workable plan to end the war, now in its third year, although its details have not been publicly disclosed.
+Ukraine clai...
+INFO:root:Summary generated:  At least 13 people were injured, Russia's Health Ministry added . Ukraine claimed the strike destroyed military warehouses in Toropets, a town in Russia's Tver region . The attack was carried out by Ukraine’s Security Service, a Kyiv security official said .
+INFO:root:Summary generated:  The facility caught fire in the strike and was burning across an area 6 kilometers (4 miles) wide, a Ukrainian intelligence official says . Among the destroyed ammunition were North Korean KN-23 short-range ballistic missiles, the official said . Russia and North Korea signed a pact in June that envisioned mutual military assistance between Moscow and Pyongyang .
+INFO:root:Summary generated:  Ukraine is seeking approval from Western nations for weapons they are providing to hit targets inside Russia . Some Western leaders have balked at that, fearing they could be dragged into the conflict .
+INFO:root:Summary generated:  The U.K. Defense Ministry estimates the war has probably killed or wounded more than 600,000 Russian troops . Putin ordered the country’s military to increase its number of troops by 180,000 to a total of 1.5 million by Dec. 1 .
+INFO:root:Summary generated:  /hub/russia-ukraine. /hub: Russia, Ukraine, Russia and Ukraine . /hub.com: Ukraine, Ukraine and Russia.com .
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/ukraine-targets-western-russian-regions-004312893.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/ukraine-targets-western-russian-regions-004312893.html: By Lucy Papachristou and Lidia Kelly
+LONDON (Reuters) -A large-scale Ukrainian drone attack on Russia triggered an earthquake-sized blast at a major arsenal in the Tver region on Wednesday, forcing the evacuation of a nearby town, war bloggers and some media reported.
+Unverified video and images on social media showed a huge ball of flame blasting high into the night sky and multiple detonations thundering across a lake about 380 km (240 miles) west of Moscow.
+NASA satellites picked up intense h...
+INFO:root:Summary generated:  Unverified video and images on social media showed a huge ball of flame blasting high into the night sky and multiple detonations thundering across a lake about 380 km (240 miles) west of Moscow . NASA satellites picked up intense heat sources emanating from an area of about 14 square kilometres (5 square miles) at the site .
+INFO:root:Summary generated:  Russia and Ukraine each reported dozens of enemy drone attacks on their territory overnight . State media, which is now subject to military censorship laws, was muted in its reporting on Wednesday .
+INFO:root:Summary generated:  The size of the main blast was consistent with 200-240 tons of high explosives detonating, an analyst says . A Toropets chatroom on the Russian social media site VK was flooded with messages of support from other parts of the country .
+INFO:root:Summary generated:  Toropets, a 1,000-year-old town, has a population of just over 11,000 . Deputy defence minister said in 2018 that the facility could defend weapons from missiles and even a small nuclear attack . Russia said it had destroyed 54 drones launched against five Russian regions overnight .
+INFO:root:Summary generated:  Russia says three guided air missiles did not reach their targets overnight . Russia says it used three missiles which did not hit their targets . Ukraine says it has been hit by a missile strike in the past two days .
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/florida-sheriff-releases-mugshot-11-173339967.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/florida-sheriff-releases-mugshot-11-173339967.html: A Florida sheriff released the mug shot and video of an 11-year-old child charged with a felony for allegedly making a written threat of a mass shooting.
+The release came just days after the sheriff said he would start releasing the mug shots of students who are arrested for making school shooting threats; two teenagers and the 11-year-old child were taken into custody within the last few days.
+"Since parents, you don't want to raise your kids, I'm gonna start raising them," Volusia County Sheri...
+INFO:root:Summary generated:  Florida sheriff releases mug shot and video of 11-year-old boy charged with felony for allegedly making a written threat of a mass shooting . Sheriff: "Since parents, you don't want to raise your kids, I'm gonna start raising them"
+INFO:root:Summary generated:  Detectives were alerted through Fortify Florida, which allows people to make anonymous reports of suspicious activity to law enforcement and school officials . Detectives recovered airsoft rifles, pistols and fake ammunition along with knives, swords and other weapons . The boy was arrested after threatening to commit shooting at Creekside or Silver Sands Middle School .
+INFO:root:Summary generated:  The alleged list of targets was also recovered . "Go talk to those parents and see how funny this is," the mother-of-one said .
+INFO:root:Summary generated:  The 11-year-old's arrest came days after two other students were taken into custody for allegedly posting threats on TikTok and Instagram . Sheriff: "So parents, do your job. Don’t let Sheriff Chitwood raise our kids. This is absolutely ridiculous"
+INFO:root:Summary generated:  "Parents and community members should reinforce the seriousness of these offenses to your children," officials say . The school says it is seeking the support of parents, community members and parents .
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.yahoo.com:443
+DEBUG:urllib3.connectionpool:https://www.yahoo.com:443 "GET /news/11-old-arrested-mass-school-223703305.html HTTP/11" 200 None
+INFO:root:Article content fetched from https://www.yahoo.com/news/11-old-arrested-mass-school-223703305.html: Shocking video shows an 11-year-old under arrest. The local sheriff says he is starting a new policy of posting video showing minor's faces on social media. Sheriff Mike Chitwood of Volusia County, Florida says the youngster threatened to commit a "mass shooting" at a school outside Daytona Beach. The sheriff says he was driven to this extraordinary step of allowing a minor's face to be shown after a wave of threats made to schools in his county.
+View comments...
+INFO:root:Summaries added to DataFrame.
+INFO:root:Script completed.

@@ -42,3 +42,23 @@ You can run the main script manually using:
 
 ```bash
 python run_daily.py
+```
+
+## This script will:
+
+- Scrape the latest news articles.
+- Summarize each article.
+- Output the results in a web browser.
+- Log important information in a log file.
+
+## Running the Script Automatically
+
+You can automate the script to run every morning using macOS Automator or by setting up a cron job.
+
+## Logging
+
+- Log File: The script creates a log file (display_summaries.log) in the project directory to track its operations and errors.
+
+## Contributing
+
+- Contributions are welcome! Feel free to submit pull requests or issues to enhance the project.
